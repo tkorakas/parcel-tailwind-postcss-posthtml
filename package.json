@@ -1,0 +1,22 @@
+{
+  "name": "humanfactor-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Thanos Korakas",
+  "license": "ISC",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "autoprefixer": "^9.8.6",
+    "parcel-bundler": "^1.12.4",
+    "postcss-modules": "^3.2.2",
+    "posthtml-expressions": "^1.4.7",
+    "posthtml-include": "^1.4.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.7.6"
+  }
+}
